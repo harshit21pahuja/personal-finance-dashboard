@@ -53,4 +53,4 @@ I plan to deploy this soon to Streamlit Cloud!
 ---
 
 **Developed by:** Harshit Pahuja
-**Connect on LinkedIn:** [Your LinkedIn Profile URL Here, e.g., https://linkedin.com/in/harshitpahuja
+**Connect on LinkedIn:** [www.linkedin.com/in/harshit-pahuja-292147316
